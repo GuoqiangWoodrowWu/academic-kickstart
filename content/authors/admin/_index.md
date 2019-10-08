@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Chinese Academy of Sciences
-    year: 2012
+    year: 2019
   - course: MEng in Computer Science
     institution: University of Chinese Academy of Sciences
-    year: 2009
+    year: 2015
   - course: BSc in Software Engineering
     institution: Shandong University
-    year: 2008
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
