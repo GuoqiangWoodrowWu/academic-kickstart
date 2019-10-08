@@ -22,19 +22,19 @@ bio: My research interests include machine learning, data mining and artificial 
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Data Mining
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of Chinese Academy of Sciences
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MEng in Computer Science
+    institution: University of Chinese Academy of Sciences
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Software Engineering
+    institution: Shandong University
     year: 2008
 
 # Social/Academic Networking
