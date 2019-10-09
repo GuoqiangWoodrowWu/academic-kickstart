@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoc at Tsinghua University, working with Prof.Zhu Jun. 
+I'm a postdoc at Tsinghua University, working with Prof.Jun Zhu. 
 
  
